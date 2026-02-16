@@ -62,14 +62,14 @@ int main(){
 //         cout << endl;
 //     }
 
-     for(int i = 0;i<5;i++){
+    //  for(int i = 0;i<5;i++){
 
-        for(int j='f';j<'k' ;j++){
+    //     for(int j='f';j<'k' ;j++){
 
-           // cout <<  "&";
-          cout << j;
+    //        // cout <<  "&";
+    //       cout << j;
      
-        }
+    //     }
 
-            }
+    //         }
 }
